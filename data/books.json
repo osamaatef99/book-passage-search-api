@@ -1,0 +1,17 @@
+[
+  {"title": "Sample Book A: Healthy Habits (dummy text)", "pages": [
+    {"page": 1, "text": "Regular sleep helps the body recover. Adults usually need seven to nine hours each night, and a fixed bedtime makes falling asleep easier."},
+    {"page": 2, "text": "Drinking water throughout the day supports concentration. Sugary drinks add calories without making you feel full."},
+    {"page": 3, "text": "Short walks after meals can help keep energy steady. Even ten minutes of movement is better than sitting all afternoon."}
+  ]},
+  {"title": "Sample Book B: Starting a Small Business (dummy text)", "pages": [
+    {"page": 1, "text": "A small business should track every invoice and expense from day one. Simple spreadsheets are enough at the start."},
+    {"page": 2, "text": "Customers return when replies are fast and polite. Answer questions within a day and keep a list of common questions."},
+    {"page": 3, "text": "Pricing should cover costs, time and a profit margin. Many new owners charge too little because they forget unpaid hours."}
+  ]},
+  {"title": "Sample Book C: Learning Python (dummy text)", "pages": [
+    {"page": 1, "text": "A function groups steps you want to reuse. Give it a clear name and keep it small so it is easy to test."},
+    {"page": 2, "text": "Lists store ordered items and dictionaries store values by key. Choose the structure that matches how you look data up."},
+    {"page": 3, "text": "Tests prove that code still works after a change. Write a test for the bug before fixing it so it cannot return."}
+  ]}
+]
